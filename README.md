@@ -1,4 +1,6 @@
 # Opening and Closing Operations Using OpenCV
+## Developed by : Sivakarthikeyan V
+## reg no. : 212225220098
 
 ## Aim
 
